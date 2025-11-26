@@ -15,3 +15,5 @@ cout<<a<<endl;
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] 记得好好喝水
+- [x] 666
