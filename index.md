@@ -5,3 +5,13 @@
 ##### 这是一个五级标题
 ###### 这是一个六级标题
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```cpp
+int a=0;
+a++;
+cout<<a<<endl;
+```
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
